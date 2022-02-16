@@ -6,7 +6,7 @@
     (property "Value" "VT-DTMSX3" (id 1) (at 0 20.32 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "LPD_Wireless_Modules:VT-DTMSX3" (id 2) (at 0 19.05 0)
+    (property "Footprint" "LPD_Wireless_UART:VT-DTMSX3" (id 2) (at 0 19.05 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.digirf.com/filedownload/277583" (id 3) (at 0 19.05 0)

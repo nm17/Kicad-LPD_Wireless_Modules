@@ -21,3 +21,5 @@ This repository contains symbols and footprints for various cheap LPD (low power
   - Generic **QLP20** footprint: Used for CC1120-like IC's
   - **VT-DTMSX3** board: RF Module based on CC1120 transceiver and Cortex-M3 chip that provides wireless **UART** connectivity
 	  + AliExpress: https://www.aliexpress.com/item/32932216351.html
+  - **RFM69** board: A highly integrated RF transceiver capable of operation over a wide frequency range by HopeRF electronics.
+	  + AliExpress: https://www.aliexpress.com/item/32827496282.html
