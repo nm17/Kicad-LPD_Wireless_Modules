@@ -1,6 +1,8 @@
 # KiCad-LPD\_Wireless\_Modules
 Wireless transmitter & receiver modules Symbol and Footprint repo for KiCad (also includes eval boards for development use)
 
+Development status: **Alpha** (Expect sloppy commits, force pushes and big changes in the library. Library is highly WIP and expected to break every few commits. Any feedback is welcome.) 
+
 ### What is this repo for?
 This repository contains symbols and footprints for various cheap LPD (low power device) radio modules for transmitting and receiving of signals on the 433/868/915 MHz frequency. These modules are meant for use in other systems via soldering onboard, hence the need for a library that provides definitions of these modules for use in programs like KiCad. By making the footprints and symbols available, it makes it easier for others to develop and prototype boards using these modules.
 
